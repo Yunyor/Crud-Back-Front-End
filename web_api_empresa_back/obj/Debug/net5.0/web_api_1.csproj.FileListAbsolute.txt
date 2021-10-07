@@ -1,0 +1,123 @@
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.csproj.AssemblyReference.cache
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.AssemblyInfoInputs.cache
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.AssemblyInfo.cs
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.csproj.CoreCompileInputs.cache
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\appsettings.json
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.exe
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.deps.json
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.runtimeconfig.json
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.runtimeconfig.dev.json
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\ref\web_api_1.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\web_api_1.pdb
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\Remotion.Linq.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PABLO\Desktop\api_empresa\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.Manifest.cache
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.xml
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\scopedcss\bundle\web_api_1.styles.css
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.RazorTargetAssemblyInfo.cache
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.csproj.CopyComplete
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.dll
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\ref\web_api_1.dll
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.pdb
+C:\Users\PABLO\Desktop\api_empresa\obj\Debug\net5.0\web_api_1.genruntimeconfig.cache
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\appsettings.json
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.exe
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.deps.json
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.json
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.dev.json
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\ref\web_api_1.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\web_api_1.pdb
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\Remotion.Linq.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PABLO\Desktop\web_api_1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.csproj.AssemblyReference.cache
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfoInputs.cache
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfo.cs
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CoreCompileInputs.cache
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.Manifest.cache
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.xml
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\scopedcss\bundle\web_api_1.styles.css
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.RazorTargetAssemblyInfo.cache
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CopyComplete
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.dll
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\ref\web_api_1.dll
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.pdb
+C:\Users\PABLO\Desktop\web_api_1\obj\Debug\net5.0\web_api_1.genruntimeconfig.cache
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\appsettings.json
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.exe
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.deps.json
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.json
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.runtimeconfig.dev.json
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\ref\web_api_1.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\web_api_1.pdb
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Remotion.Linq.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.csproj.AssemblyReference.cache
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfoInputs.cache
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.AssemblyInfo.cs
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CoreCompileInputs.cache
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.Manifest.cache
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\staticwebassets\web_api_1.StaticWebAssets.xml
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\scopedcss\bundle\web_api_1.styles.css
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.RazorTargetAssemblyInfo.cache
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.csproj.CopyComplete
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\ref\web_api_1.dll
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.pdb
+C:\Users\PABLO\Documents\Desarrollo Web\web_api_1\obj\Debug\net5.0\web_api_1.genruntimeconfig.cache
